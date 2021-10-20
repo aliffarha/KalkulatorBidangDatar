@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KalkulatorBidangDatar</string>
+    <string name="hitung_luas_dan_keliling_persegi_panjang">HITUNG LUAS DAN KELILING PERSEGI PANJANG</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+</resources>
